@@ -1,0 +1,2 @@
+#this is version 2 of first project 
+to edit repository, add file, check status, commit changes and push changes to Github
